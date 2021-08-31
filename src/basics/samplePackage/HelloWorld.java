@@ -1,4 +1,4 @@
-package samplePackage;
+package basics.samplePackage;
 
 public class HelloWorld {
 

@@ -1,4 +1,4 @@
-package learnObject;
+package basics.learnObject;
 
 
 public class StringPractice {
